@@ -7,9 +7,14 @@ public class App2 {
 		
 		String nome[] = new String[3];
 		nome[0] = "Jose";
-		nome[0] = "Ana Maria";
-		nome[0] = "Eduarda";
+		nome[1] = "Ana Maria";
+		nome[2] = "Eduarda";
 		
+		int valor[] = {10,47,78,99,7};
+		
+		
+		System.out.println(valor[1]);
+		System.out.println(valor[3]);
 		
 	}
 
