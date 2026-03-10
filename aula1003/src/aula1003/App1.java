@@ -19,7 +19,7 @@ public class App1 {
 		// imprimir 
 		System.out.println("Nome......: " + nome);
 		System.out.println("Idade.....: " + idade);
-		System.out.println("Nota;.....: " + nota);
+		System.out.println("Nota......: " + nota);
 		
 	}
 	
