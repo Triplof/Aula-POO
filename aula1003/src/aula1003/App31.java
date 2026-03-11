@@ -16,7 +16,7 @@ public class App31 {
 		
 		int contador = 0;
 				
-		int valor[] = {10,47,78,99,7,4,5,8,9,67,42,47,76,61,44,24,38};
+		int valor[] = {67,47,78,99,7,67,5,67,9,67,67,47,76,61,44,24,38};
 		
 		for(int i=0; i<valor.length; i++) {
 			 if (numero == valor[i]) {
