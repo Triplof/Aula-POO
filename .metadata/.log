@@ -725,3 +725,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 21:14:52.245
 !MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 21:19:52.684
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
