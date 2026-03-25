@@ -8,11 +8,11 @@ public class TesteConta {
 		
 		//imprimir
 		System.out.println("-------------");
-		System.out.println("Saldo: " + a.getSaldo());
-		System.out.println("Agencia: " + a.getNrAgencia());
+		
+		System.out.println("Agencia: " + a.getNrAgencia() + " Banco"+ a.getCodBanco());
+		System.out.println("Cod do Banco: " + a.getNrConta());
 		System.out.println("Titular: " + a.getTitular());
-		System.out.println("Numero da Conta: " + a.getNrConta());
-		System.out.println("Cod do Banco: " + a.getCodBanco());
+		System.out.println("Saldo: " + a.getSaldo());
 		System.out.println("-------------");
 		
 	}
