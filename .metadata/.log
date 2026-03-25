@@ -671,3 +671,57 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 19:44:22.187
 !MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 19:49:22.660
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 19:54:32.949
+!MESSAGE Phone home failed due to the following issue: Connection reset
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 19:59:33.674
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:04:34.522
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:09:35.018
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:14:35.766
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:19:36.231
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:24:36.695
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:29:37.156
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:34:37.938
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:39:38.408
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:44:39.113
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:49:39.566
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:54:40.020
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 20:59:50.298
+!MESSAGE Phone home failed due to the following issue: Connection reset
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 21:04:51.030
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 21:09:51.502
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-03-24 21:14:52.245
+!MESSAGE Phone home failed due to the following issue: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
